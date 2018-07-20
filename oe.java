@@ -10,9 +10,9 @@ System.out.println("invalid");
 else
 {
 if(n%2==0)
-System.out.println("even");
+System.out.println("Even");
 else
-System.out.println("odd");
+System.out.println("Odd");
 }
 }
 }
